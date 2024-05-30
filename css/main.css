@@ -1,0 +1,70 @@
+body{
+
+    background-color: hsl(212, 45%, 89%);
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.first-container{
+
+    position: relative;
+    left: 39%;
+    top: 50px;
+    width: 20%;
+    height: 550px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 10px black;
+
+}
+
+.QR-code{
+
+    position: absolute;
+    width: 90%;
+    height: 350px;
+    left: 5%;
+    top: 3%;
+    background-color: rgb(38, 131, 238);
+    border-radius: 10px;
+
+
+}
+
+p{
+    position:absolute;
+    font-family: "Outfit", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    left: 14%;
+    top: 65%;
+
+
+}
+
+.p2{
+
+    position:absolute;
+    color: hsl(220, 15%, 55%);
+    display: inline;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    left: 6%;
+    top: 80%;
+
+
+}
+
+.p3{
+
+        position:absolute;
+        font-family: "Outfit", sans-serif;
+        font-weight: bold;
+        font-size: 25px;
+        left: 12%;
+        top: 70%;
+    
+    
+    
+}
